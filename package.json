@@ -1,17 +1,14 @@
 {
-  "name": "gatsby-starter-eventually",
+  "name": "wise-buddha-thoughts",
   "version": "1.0.0",
-  "description": "Gatsby.js V2 starter template based on Eventually by HTML5 UP",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-eventually.git"
-  },
+  "description": "A simple blog on Buddhism, Meditation, Mindfulness and Buddha's anecdotes.",
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "The Wise Buddha",
+    "email": "wisebuddha@outlook.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
+    "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-manifest": "^2.3.1",
     "gatsby-plugin-offline": "^3.1.0",
     "gatsby-plugin-react-helmet": "^3.2.0",
@@ -36,13 +33,9 @@
     "rimraf": "^3.0.2"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-eventually"
+    "buddha", "buddhism", "meditation", "buddhist", "love", "zen", "peace", "spirituality", "india", "art", "spiritual", "mindfulness", "buddhaquotes",  "ambedkar", "wisdom", "buddhastatue", "enlightenment", "dhamma", "jaybhim", "awakening", 
+    "compassion", "religion", "buddhalove", "buddhisttemple",  "happiness", "motivation",  "jaibhim", "vihara",  "bhim", "philosophy", "positivevibes", "buddhadharma",  "dalailama", "spiritualawakening", "karma",  "culture", "buddhas", "sangha", "meditate"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-eventually/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-eventually#readme"
+  "license": "MIT"
+
 }

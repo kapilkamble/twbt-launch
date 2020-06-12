@@ -10,7 +10,7 @@
 		@include vendor('transition', 'opacity #{_duration(bg-fadein)} ease-in-out');
 		height: 100%;
 		left: 0;
-		opacity: 0.25;
+		opacity: 0.45;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -25,7 +25,7 @@
 			position: absolute;
 			top: 0;
 			visibility: hidden;
-			width: 150%;
+			width: 125%;
 
 			&.visible {
 				@include vendor('animation', 'bg #{_duration(bg-slide)} linear infinite');
