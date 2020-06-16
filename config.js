@@ -1,13 +1,13 @@
 module.exports = {
   siteTitle: 'The Wise Buddha Thoughts', // <title>
-  manifestName: 'Buddha',
+  manifestName: 'the Wise Buddha thoughts',
   manifestShortName: 'TWBT', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#f0efed',
   manifestThemeColor: '#f0efed',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.jpg',
-  pathPrefix: `/wise-buddha-thoughts/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   // social
   heading: 'The Wise Buddha Thoughts',
   subHeading:
